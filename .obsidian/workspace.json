@@ -1,0 +1,216 @@
+{
+  "main": {
+    "id": "76d15dae7f4f617c",
+    "type": "split",
+    "children": [
+      {
+        "id": "3932f8d1dff5c3ad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "484bdf5ed1d346b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "后端/Java基础/Stream流/Stream流.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "02537fced1daa730",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd883ed3e7f3ca64",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f24d2a55b01deeab",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cc1fde13615f91a0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "806b6a4684d96652",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 435.5
+  },
+  "right": {
+    "id": "74e0a7820f4dc953",
+    "type": "split",
+    "children": [
+      {
+        "id": "c58979cb95db063c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f7721f9dd870a9bd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "后端/Java基础/Stream流/Stream流.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f484f07bab0e81b1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "后端/Java基础/Stream流/Stream流.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c121938a2e7965c0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d04f8de3552d93b3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "后端/Java基础/Stream流/Stream流.md"
+              }
+            }
+          },
+          {
+            "id": "467eaaf6ffbda157",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "29f251629b9f5206",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "f24d2a55b01deeab",
+  "lastOpenFiles": [
+    "gitignore.txt",
+    "新建 文本文档.txt",
+    "新建文件夹",
+    "后端/Java基础/判断和循环/day04-流程控制语句.md",
+    "后端/Java基础/判断和循环/img/1545615769372.png",
+    "后端/Java基础/判断和循环/img/1545616667104.png",
+    "后端/Java基础/判断和循环/img/1545616221283.png",
+    "后端/Java基础/判断和循环/img/1545616039363.png",
+    "后端/Java基础/运算符/day03笔记.md",
+    "后端/Java基础/判断和循环/img",
+    "后端/Java基础/day04-判断和循环/笔记/day04-流程控制语句.md",
+    "后端/Java基础/判断和循环/笔记/img/1545616667104.png",
+    "后端/Java基础/判断和循环/笔记/img/1545616221283.png",
+    "后端/Java基础/判断和循环/笔记/img/1545616039363.png",
+    "后端/Java基础/判断和循环/笔记/img/1545615769372.png",
+    "后端/Java基础/判断和循环/笔记/day04-流程控制语句.md",
+    "后端/Java基础/判断和循环/笔记/img",
+    "后端/Java基础/判断和循环/笔记",
+    "后端/Java基础/判断和循环",
+    "后端/Java基础/Java基础语法02/day02-Java基础语法.md",
+    "后端/Java基础/day36-基础加强（日志，类加载器，单元测试，xml，注解，羊了个羊）/06-羊了个羊完整代码/羊了个羊/相关资料/static/skins/a64/9.png",
+    "后端/Java基础/day36-基础加强（日志，类加载器，单元测试，xml，注解，羊了个羊）/06-羊了个羊完整代码/羊了个羊/相关资料/static/skins/a64/8.png",
+    "后端/Java基础/day36-基础加强（日志，类加载器，单元测试，xml，注解，羊了个羊）/06-羊了个羊完整代码/羊了个羊/相关资料/static/skins/a64",
+    "后端/Java基础/day23-集合（泛型&Set&数据结构）/day23-笔记/笔记/集合02.md",
+    "后端/Java基础/day23-集合（泛型&Set&数据结构）/day23-笔记/笔记/img",
+    "后端/Java基础/day23-集合（泛型&Set&数据结构）/day23-笔记/笔记",
+    "后端/Java基础/day23-集合（泛型&Set&数据结构）/day23-笔记",
+    "后端/Java基础/day22-集合（List集合）/笔记/集合01.md",
+    "后端/Java基础/day14-面向对象进阶（多态&包&final&权限修饰符&代码块）/作业/day14作业.md",
+    "后端/Java基础/day14-面向对象进阶（多态&包&final&权限修饰符&代码块）/笔记/day14笔记.md",
+    "后端/Java基础/day12-学生管理系统升级版/作业/day11作业详解/day11作业详解.md",
+    "后端/Java基础/day12-学生管理系统升级版/作业/day12作业.md",
+    "后端/Java基础/day12-学生管理系统升级版/资料/学生管理系统升级版的需求文档.md",
+    "后端/Java基础/day11-集合&学生管理系统/作业/day10作业讲解/day10字符串作业.md",
+    "后端/Java基础/day11-集合&学生管理系统/笔记/ArrayList&学生管理系统.md",
+    "后端/Java基础/day11-集合&学生管理系统/资料/学生管理系统的需求文档.md",
+    "后端/Java基础/day11-集合&学生管理系统/作业/day11作业.md",
+    "后端/Java基础/day06-方法/作业/day05作业讲解/day05作业.md",
+    "后端/Java基础/day06-方法/笔记/方法.md",
+    "后端/Java基础/day06-方法/作业/day06方法作业.md",
+    "后端/Java基础/day05-循环高级和数组/作业/day04作业答案/day04作业.md",
+    "后端/Java基础/day05-循环高级和数组/笔记/循环高级.md",
+    "后端/Java基础/day05-循环高级和数组/作业/day05作业.md",
+    "后端/Java基础/day05-循环高级和数组/笔记/数组.md",
+    "后端/Java基础/day35-基础加强（反射，动态代理）/笔记/反射&动态代理.md",
+    "后端/Java基础/day28-IO（字节流&字符流）/笔记/IO流（字节流&字符流）.md"
+  ]
+}
