@@ -173,21 +173,21 @@ public class StudentDemo {
 
 * 成员变量使用过程
 
-![1](images\1.png)
+![[后端/Java基础/day08-面向对象/笔记/images/1.png]]
 
 * 成员方法调用过程
 
-![2](images\2.png)
+![[后端/Java基础/day08-面向对象/笔记/images/2.png]]
 
 ### 2.2 多个对象内存图
 
 * 成员变量使用过程
 
-![3](images\3.png)
+![[后端/Java基础/day08-面向对象/笔记/images/3.png]]
 
 * 成员方法调用过程
 
-![4](images\4.png)
+![[后端/Java基础/day08-面向对象/笔记/images/4.png]]
 
 * 总结：
 
@@ -562,7 +562,7 @@ public class StudentDemo {
 
 ### 5.4 练习2
 
-![111](images\111.jpg)
+![[111.jpg]]
 
 ```java
 public class User {

@@ -553,13 +553,13 @@ public class ScannerDemo1{
 - 到资料文件夹中，双击安装包。
 - 点击next，准备安装
 
-![计算机发展](img/idea%E5%AE%89%E8%A3%851.png)
+![计算机发展](idea安装1.png)
 
 - 点击Browse修改安装路径。
 
   修改完毕点击next
 
-![计算机发展](img/idea%E5%AE%89%E8%A3%852.png)
+![计算机发展](idea安装2.png)
 
 - 勾选64-bit launcher。表示在桌面新建一个64位的快捷方式。
 
@@ -567,23 +567,23 @@ public class ScannerDemo1{
 
   点击next。
 
-![计算机发展](img/idea%E5%AE%89%E8%A3%854.png)
+![计算机发展](idea安装4.png)
 
 - 点击Install，准备安装。
 
-![计算机发展](img/idea%E5%AE%89%E8%A3%855.png)
+![计算机发展](idea安装5.png)
 
 - 等进度条读取完毕之后，会有最终界面提示。
 
   点击finish即可。
 
-![计算机发展](img/idea%E5%AE%89%E8%A3%856.png)
+![计算机发展](idea安装6.png)
 
 - 第一次启动会询问，是否导入一些设置。
 
   选择第二个不导入，保持默认设置，再点击OK。
 
-![计算机发展](img/idea%E5%AE%89%E8%A3%857.png)
+![计算机发展](idea安装7.png)
 
 - 选择背景主题
 
@@ -593,7 +593,7 @@ public class ScannerDemo1{
 
   选择完毕点击右下角的next
 
-![计算机发展](img/idea%E5%AE%89%E8%A3%858.png)
+![计算机发展](idea安装8.png)
 
 - 在本界面让我们购买idea。
 
@@ -601,17 +601,17 @@ public class ScannerDemo1{
 
   点击第一排第二个。Evaluate for free
 
-![计算机发展](img/idea%E5%AE%89%E8%A3%859.png)
+![计算机发展](idea安装9.png)
 
 - 点击蓝色的Evaluate，就可以开始免费试用30天了。
 
-![计算机发展](img/idea%E5%AE%89%E8%A3%8510.png)
+![计算机发展](idea安装10.png)
 
 - 当看到这个界面，就表示idea已经成功安装完毕
 
   可以点击右上角关闭。
 
-![计算机发展](img/idea%E5%AE%89%E8%A3%8511.png)
+![计算机发展](idea安装11.png)
 
 ### 8.3 IDEA中层级结构介绍
 
@@ -680,13 +680,13 @@ public class ScannerDemo1{
 
 - 双击启动图标
 
-  ![计算机发展](img/idea%E4%BD%BF%E7%94%A81.png)
+  ![计算机发展](idea使用1.png)
 
 - 首先要新建一个项目
 
   点击creat new project
 
-  ![计算机发展](img/idea1.png)
+  ![计算机发展](idea1.png)
 
 - 我们要从0开始写代码，所以新建一个空的什么都没有的项目。
 
@@ -694,27 +694,27 @@ public class ScannerDemo1{
 
   再点击右下角的next
 
-![计算机发展](img/idea2.png)
+![计算机发展](idea2.png)
 
 - 输入项目的名称
 
   输入项目的存放路径
 
-![计算机发展](img/idea3.png)
+![计算机发展](idea3.png)
 
 - 点击ok。idea会帮助我们在本地创建一个项目文件夹
 
-![计算机发展](img/idea4.png)
+![计算机发展](idea4.png)
 
 - 点击Module，准备新建一个模块
 
-![计算机发展](img/idea5.png)
+![计算机发展](idea5.png)
 
 - 点击+
 
   再点击New Module
 
-![计算机发展](img/idea6.png)
+![计算机发展](idea6.png)
 
 - 我们要编写Java代码，所以要新建一个Java模块。
 
@@ -722,19 +722,19 @@ public class ScannerDemo1{
 
   再点击右下角的next
 
-![计算机发展](img/idea7.png)
+![计算机发展](idea7.png)
 
 - 输入模块的名称
 
   再点击右下角的Next
 
-![计算机发展](img/idea8.png)
+![计算机发展](idea8.png)
 
 - 成功新建一个模块之后，中间就会出现刚刚新建的模块
 
   点击右下角的OK
 
-![计算机发展](img/idea9.png)
+![计算机发展](idea9.png)
 
 - 回到主界面
 
@@ -742,13 +742,13 @@ public class ScannerDemo1{
 
   右键点击src，选择New，选择Java Class
 
-![计算机发展](img/idea10.png)
+![计算机发展](idea10.png)
 
 - 输入类名
 
   再按回车
 
-![计算机发展](img/idea11.png)
+![计算机发展](idea11.png)
 
 - 由于字体比较小
 
@@ -756,7 +756,7 @@ public class ScannerDemo1{
 
   点击File，选择Setting。
 
-![计算机发展](img/idea12.png)
+![计算机发展](idea12.png)
 
 - 搜索一下font
 
@@ -764,17 +764,17 @@ public class ScannerDemo1{
 
   设置完毕后点击右下角的OK
 
-![计算机发展](img/idea13.png)
+![计算机发展](idea13.png)
 
 - 编写代码
 
-![计算机发展](img/idea14.png)
+![计算机发展](idea14.png)
 
 - 运行代码
 
   右键空白处，点击Run
 
-![计算机发展](img/idea15.png)
+![计算机发展](idea15.png)
 
 
 
@@ -782,7 +782,7 @@ public class ScannerDemo1{
 
   所有输出语句中的内容，都会在控制台上展示。
 
-![计算机发展](img/idea16.png)
+![计算机发展](idea16.png)
 
 ### 8.5 IDEA中类的相关操作
 
@@ -798,15 +798,15 @@ public class ScannerDemo1{
 
   所以，右键点击src，选择new，点击Java Class
 
-  ![计算机发展](img/%E6%96%B0%E5%BB%BA%E7%B1%BB1.png)
+  ![计算机发展](新建类1.png)
 
 - 输入类名，再按回车
 
-  ![计算机发展](img/%E6%96%B0%E5%BB%BA%E7%B1%BB2.png)
+  ![计算机发展](新建类2.png)
 
 - 新建完毕
 
-![计算机发展](img/%E6%96%B0%E5%BB%BA%E7%B1%BB3.png)
+![计算机发展](新建类3.png)
 
 #### 8.5.3 修改类名
 
@@ -816,17 +816,17 @@ public class ScannerDemo1{
 
   再点击Rename
 
-![计算机发展](img/%E4%BF%AE%E6%94%B9%E7%B1%BB%E5%90%8D1.png)
+![计算机发展](修改类名1.png)
 
 - 输入想要修改的名字
 
   输入完毕点击下面的Refactor
 
-![计算机发展](img/%E4%BF%AE%E6%94%B9%E7%B1%BB%E5%90%8D2.png)
+![计算机发展](修改类名2.png)
 
 - 文件名和类名均已修改成功
 
-  ![计算机发展](img/%E4%BF%AE%E6%94%B9%E7%B1%BB%E5%90%8D3.png)
+  ![计算机发展](修改类名3.png)
 
 #### 8.5.4 删除类文件
 
@@ -834,11 +834,11 @@ public class ScannerDemo1{
 
   选择Delete即可
 
-![计算机发展](img/%E5%88%A0%E9%99%A4%E7%B1%BB%E6%96%87%E4%BB%B61.png)
+![计算机发展](删除类文件1.png)
 
 - 在弹出的界面中点击OK，确定删除
 
-![计算机发展](img/%E5%88%A0%E9%99%A4%E7%B1%BB%E6%96%87%E4%BB%B62.png)
+![计算机发展](删除类文件2.png)
 
 > 小贴士：
 >
@@ -857,39 +857,39 @@ public class ScannerDemo1{
 
 - 点击File，选择Project Structure
 
-![计算机发展](img/%E6%96%B0%E5%BB%BA%E6%A8%A1%E5%9D%971.png)
+![计算机发展](新建模块1.png)
 
 - 选择Module
 
-![计算机发展](img/%E6%96%B0%E5%BB%BA%E6%A8%A1%E5%9D%972.png)
+![计算机发展](新建模块2.png)
 
 - 点击+
 
   选择New Module
 
-![计算机发展](img/%E6%96%B0%E5%BB%BA%E6%A8%A1%E5%9D%973.png)
+![计算机发展](新建模块3.png)
 
 - 要创建一个Java模块，所以选择第一个Java
 
   点击右下角的Next
 
-![计算机发展](img/%E6%96%B0%E5%BB%BA%E6%A8%A1%E5%9D%974.png)
+![计算机发展](新建模块4.png)
 
 - 输入模块的名称
 
   点击右下角的Finish
 
-![计算机发展](img/%E6%96%B0%E5%BB%BA%E6%A8%A1%E5%9D%975.png)
+![计算机发展](新建模块5.png)
 
 - 成功新建完毕之后，在中间空白区域就出现了刚刚新建的模块
 
   点击右下角的OK
 
-![计算机发展](img/%E6%96%B0%E5%BB%BA%E6%A8%A1%E5%9D%976.png)
+![计算机发展](新建模块6.png)
 
 - 在主界面中，也会出现刚刚新建的模块
 
-![计算机发展](img/%E6%96%B0%E5%BB%BA%E6%A8%A1%E5%9D%977.png)
+![计算机发展](新建模块7.png)
 
 #### 8.6.3 删除模块
 
@@ -897,15 +897,15 @@ public class ScannerDemo1{
 
   选择Remove Module
 
-![计算机发展](img/%E5%88%A0%E9%99%A4%E6%A8%A1%E5%9D%971.png)
+![计算机发展](删除模块1.png)
 
 - 选择Remove，表示确定删除
 
-![计算机发展](img/%E5%88%A0%E9%99%A4%E6%A8%A1%E5%9D%972.png)
+![计算机发展](删除模块2.png)
 
 - 此时发现，在IDEA列表页面，删除的模块已经不在了。
 
-![计算机发展](img/%E5%88%A0%E9%99%A4%E6%A8%A1%E5%9D%973.png)
+![计算机发展](删除模块3.png)
 
 > 小贴士：
 >
@@ -919,23 +919,23 @@ public class ScannerDemo1{
 
   再选择Rename
 
-![计算机发展](img/%E4%BF%AE%E6%94%B9%E6%A8%A1%E5%9D%97%E5%90%8D1.png)
+![计算机发展](修改模块名1.png)
 
 - 选择第三个修改模块名和本地文件夹名
 
   点击OK
 
-![计算机发展](img/%E4%BF%AE%E6%94%B9%E6%A8%A1%E5%9D%97%E5%90%8D3.png)
+![计算机发展](修改模块名3.png)
 
 - 输入要修改的新的模块名
 
   输入完毕点击Refactor
 
-![计算机发展](img/%E4%BF%AE%E6%94%B9%E6%A8%A1%E5%9D%97%E5%90%8D4.png)
+![计算机发展](修改模块名4.png)
 
 - 回到主界面，就发现模块名和文件夹名都已经修改完毕
 
-![计算机发展](img/%E4%BF%AE%E6%94%B9%E6%A8%A1%E5%9D%97%E5%90%8D5.png)
+![计算机发展](修改模块名5.png)
 
 
 
@@ -943,7 +943,7 @@ public class ScannerDemo1{
 
 - 点击File，选择Project Structure
 
-![计算机发展](img/%E5%AF%BC%E5%85%A5%E6%A8%A1%E5%9D%971.png)
+![计算机发展](导入模块1.png)
 
 - 选择Module
 
@@ -951,35 +951,35 @@ public class ScannerDemo1{
 
   选择Import Module
 
-![计算机发展](img/%E5%AF%BC%E5%85%A5%E6%A8%A1%E5%9D%972.png)
+![计算机发展](导入模块2.png)
 
 - 从本地硬盘中选择要导入的模块
 
   再点击OK
 
-![计算机发展](img/%E5%AF%BC%E5%85%A5%E6%A8%A1%E5%9D%973.png)
+![计算机发展](导入模块3.png)
 
 - 不断点击Next
 
-![计算机发展](img/%E5%AF%BC%E5%85%A5%E6%A8%A1%E5%9D%974.png)
+![计算机发展](导入模块4.png)
 
 - 如果中间出现提示框，则点击Overwrite
 
   然后继续点击右下角的Next
 
-![计算机发展](img/%E5%AF%BC%E5%85%A5%E6%A8%A1%E5%9D%975.png)
+![计算机发展](导入模块5.png)
 
 - 一直点到finish为止
 
-![计算机发展](img/%E5%AF%BC%E5%85%A5%E6%A8%A1%E5%9D%976.png)
+![计算机发展](导入模块6.png)
 
 - 成功导入后，在中间位置就会出现导入的模块信息
 
-![计算机发展](img/%E5%AF%BC%E5%85%A5%E6%A8%A1%E5%9D%977.png)
+![计算机发展](导入模块7.png)
 
 - 在主界面中也会出现导入的模块信息
 
-![计算机发展](img/%E5%AF%BC%E5%85%A5%E6%A8%A1%E5%9D%978.png)
+![计算机发展](导入模块8.png)
 
 
 
@@ -987,7 +987,7 @@ public class ScannerDemo1{
 
   是因为导入模块跟JDK没有关联导致。
 
-![计算机发展](img/%E5%AF%BC%E5%85%A5%E6%A8%A1%E5%9D%979.png)
+![计算机发展](导入模块9.png)
 
 
 
@@ -995,11 +995,11 @@ public class ScannerDemo1{
 
   再选择已经安装的JDK版本即可
 
-![计算机发展](img/%E5%AF%BC%E5%85%A5%E6%A8%A1%E5%9D%9710.png)
+![计算机发展](导入模块10.png)
 
 - 导入完毕之后，代码就恢复正常不会报错了
 
-![计算机发展](img/%E5%AF%BC%E5%85%A5%E6%A8%A1%E5%9D%9711.png)
+![计算机发展](导入模块11.png)
 
 ### 8.7 IDEA中项目的相关操作
 
@@ -1014,7 +1014,7 @@ public class ScannerDemo1{
 
 - 点击File，选择Close Project即可
 
-![计算机发展](img/%E5%85%B3%E9%97%AD%E9%A1%B9%E7%9B%AE1.png)
+![计算机发展](关闭项目1.png)
 
 - 刚刚操作的项目就已经关闭了
 
@@ -1022,13 +1022,13 @@ public class ScannerDemo1{
 
   右侧有create new project，可以再建一个新的项目
 
-![计算机发展](img/%E5%85%B3%E9%97%AD%E9%A1%B9%E7%9B%AE2.png)
+![计算机发展](关闭项目2.png)
 
 - 鼠标放在项目上，后面会出现一个叉。
 
   如果点击了这里的叉，会在IDEA的列表中删除。不会删除本地硬盘上的项目。
 
-![计算机发展](img/%E5%85%B3%E9%97%AD%E9%A1%B9%E7%9B%AE3.png)
+![计算机发展](关闭项目3.png)
 
 #### 8.7.3 打开项目
 
@@ -1036,23 +1036,23 @@ public class ScannerDemo1{
 
   点击Open or Import
 
-![计算机发展](img/%E6%89%93%E5%BC%80%E9%A1%B9%E7%9B%AE1.png)
+![计算机发展](打开项目1.png)
 
 - 选择要打开的项目
 
   点击OK
 
-![计算机发展](img/%E6%89%93%E5%BC%80%E9%A1%B9%E7%9B%AE2.png)
+![计算机发展](打开项目2.png)
 
 - 项目就被打开了。
 
-![计算机发展](img/%E6%89%93%E5%BC%80%E9%A1%B9%E7%9B%AE3.png)
+![计算机发展](打开项目3.png)
 
 #### 8.7.4 修改项目
 
 - 点击File，选择Project Structure
 
-![计算机发展](img/%E4%BF%AE%E6%94%B9%E9%A1%B9%E7%9B%AE1.png)
+![计算机发展](修改项目1.png)
 
 - 在这个界面，默认是Module
 
@@ -1064,23 +1064,23 @@ public class ScannerDemo1{
 
   再点击OK
 
-![计算机发展](img/%E4%BF%AE%E6%94%B9%E9%A1%B9%E7%9B%AE2.png)
+![计算机发展](修改项目2.png)
 
 - 此时发现，项目名称已经修改完毕
 
-![计算机发展](img/%E4%BF%AE%E6%94%B9%E9%A1%B9%E7%9B%AE3.png)
+![计算机发展](修改项目3.png)
 
 - 但是本地文件夹的名字还没有修改
 
-![计算机发展](img/%E4%BF%AE%E6%94%B9%E9%A1%B9%E7%9B%AE4.png)
+![计算机发展](修改项目4.png)
 
 - 需要先关闭当前项目
 
-![计算机发展](img/%E5%85%B3%E9%97%AD%E9%A1%B9%E7%9B%AE1.png)
+![计算机发展](关闭项目1.png)
 
 - 点击项目后面的叉，从列表中移除项目
 
-![计算机发展](img/%E5%85%B3%E9%97%AD%E9%A1%B9%E7%9B%AE3.png)
+![计算机发展](关闭项目3.png)
 
 - 到本地硬盘中手动修改文件夹的名称
 
@@ -1088,17 +1088,17 @@ public class ScannerDemo1{
 
 - 点击Open or Import重新打开项目
 
-![计算机发展](img/%E6%89%93%E5%BC%80%E9%A1%B9%E7%9B%AE1.png)
+![计算机发展](打开项目1.png)
 
 - 选择修改之后的项目
 
   点击OK
 
-![计算机发展](img/%E4%BF%AE%E6%94%B9%E9%A1%B9%E7%9B%AE6.png)
+![计算机发展](修改项目6.png)
 
 - 此时会发现，项目名称和本地硬盘文件夹的名称都已经修改完毕了
 
-![计算机发展](img/%E4%BF%AE%E6%94%B9%E9%A1%B9%E7%9B%AE7.png)
+![计算机发展](修改项目7.png)
 
 #### 8.7.5 新建项目
 
@@ -1108,33 +1108,33 @@ public class ScannerDemo1{
 
   点击Project
 
-![计算机发展](img/%E6%96%B0%E5%BB%BA%E9%A1%B9%E7%9B%AE1.png)
+![计算机发展](新建项目1.png)
 
 - 同样还是创建一个什么都没有的空项目
 
-![计算机发展](img/%E6%96%B0%E5%BB%BA%E9%A1%B9%E7%9B%AE2.png)
+![计算机发展](新建项目2.png)
 
 - 输入项目的名称
 
   点击右下角的finish
 
-![计算机发展](img/%E6%96%B0%E5%BB%BA%E9%A1%B9%E7%9B%AE3.png)
+![计算机发展](新建项目3.png)
 
 - IDEA循环是否需要帮我们在本地创建一个新的文件夹
 
   点击OK
 
-![计算机发展](img/%E6%96%B0%E5%BB%BA%E9%A1%B9%E7%9B%AE4.png)
+![计算机发展](新建项目4.png)
 
 - 询问是在本窗口打开还是在一个新的窗口打开。
 
   可以点击New Window，在一个新的窗口打开。
 
-![计算机发展](img/%E6%96%B0%E5%BB%BA%E9%A1%B9%E7%9B%AE5.png)
+![计算机发展](新建项目5.png)
 
 - 此时就出现了两个窗口，在一个新的窗口打开了新的项目
 
-![计算机发展](img/%E6%96%B0%E5%BB%BA%E9%A1%B9%E7%9B%AE6.png)
+![计算机发展](新建项目6.png)
 
 
 

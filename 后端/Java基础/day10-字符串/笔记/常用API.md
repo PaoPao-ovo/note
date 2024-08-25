@@ -14,32 +14,32 @@
 
 - 打开帮助文档
 
-![01](img\01.png)
+![[后端/Java基础/day10-字符串/笔记/img/01.png]]
 
 - 找到索引选项卡中的输入框
 
-![02](img\02.png)
+![[后端/Java基础/day10-字符串/笔记/img/02.png]]
 
 - 在输入框中输入Random
 
-![03](img\03.png)
+![[后端/Java基础/day10-字符串/笔记/img/03.png]]
 
 - 看类在哪个包下
 
-![04](img\04.png)
+![[后端/Java基础/day10-字符串/笔记/img/04.png]]
 
 - 看类的描述
 
-![05](img\05.png)
+![[后端/Java基础/day10-字符串/笔记/img/05.png]]
 
 - 看构造方法
 
-![06](img\06.png)
+![[后端/Java基础/day10-字符串/笔记/img/06.png]]
 
 - 看成员方法
 
-![07](img\07.png)
 
+![[后端/Java基础/day10-字符串/笔记/img/07.png]]
 ## 2.String类
 
 ### 2.1String类概述

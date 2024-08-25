@@ -360,11 +360,15 @@ public class ArrayListDemo5 {
 
   7. 退出系统
 
-     使用System.exit(0);退出JVM
+	  7.1  使用System.exit(0);退出JVM
 
-### 2.2学生类的定义
+
+
+
+### 2.2 学生类的定义
 
 ```java
+
 package com.itheima.studentsystem;
 
 public class Student {
@@ -374,6 +378,7 @@ public class Student {
     private String address;
 
  	//下面是空参，有参，get和set方法
+
 }
 
 ```
@@ -558,8 +563,9 @@ public class StudentSystem {
         return -1;
     }
 }
-
 ```
+
+
 
 
 

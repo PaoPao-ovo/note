@@ -268,7 +268,7 @@ public class ImmutableDemo4 {
 
 - Stream流的思想
 
-  ![01_Stream流思想](.\img\01_Stream流思想.png)
+  ![[后端/Java基础/day26-集合（Stream流&方法引用）/笔记/img/01_Stream流思想.png]]
 
 - Stream流的三类方法
 
