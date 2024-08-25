@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a4b059cf816b926c",
+        "id": "7bbbfe94a0549559",
         "type": "tabs",
         "children": [
           {
-            "id": "8ac5fece469317e4",
+            "id": "a0fe9aac9087717f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "后端/Java基础/day14-面向对象进阶（多态&包&final&权限修饰符&代码块）/笔记/day14笔记.md",
+                "file": "后端/Java基础/day31-多线程/笔记/多线程01.md",
                 "mode": "preview",
                 "source": false
               }
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 398.5
+    "width": 252.5
   },
   "right": {
     "id": "74e0a7820f4dc953",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "后端/Java基础/day14-面向对象进阶（多态&包&final&权限修饰符&代码块）/笔记/day14笔记.md",
+                "file": "后端/Java基础/day31-多线程/笔记/多线程01.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "后端/Java基础/day14-面向对象进阶（多态&包&final&权限修饰符&代码块）/笔记/day14笔记.md",
+                "file": "后端/Java基础/day31-多线程/笔记/多线程01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "后端/Java基础/day14-面向对象进阶（多态&包&final&权限修饰符&代码块）/笔记/day14笔记.md"
+                "file": "后端/Java基础/day31-多线程/笔记/多线程01.md"
               }
             }
           },
@@ -151,10 +151,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5
+    "width": 411.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -162,16 +165,18 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "workspaces:管理工作区布局": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "pdf-plus:PDF++: Toggle auto-copy": false,
-      "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8ac5fece469317e4",
+  "active": "f24d2a55b01deeab",
   "lastOpenFiles": [
-    "PDF/计算机基础/操作系统概念（原书第9版） ( etc.) (Z-Library)(OCR).pdf",
+    "后端/Java基础/day03-运算符/day03笔记.md",
+    "后端/Java基础/day31-多线程/笔记/多线程01.md",
     "后端/Java基础/day01-Java基础语法01/Java基础语法.md",
+    "后端/Java基础/day32-多线程&juc/笔记/多线程02.md",
+    "后端/Java基础/day02-Java基础语法02/img/安装4.png",
+    "后端/Java基础/day14-面向对象进阶（多态&包&final&权限修饰符&代码块）/笔记/day14笔记.md",
+    "PDF/计算机基础/操作系统概念（原书第9版） ( etc.) (Z-Library)(OCR).pdf",
     "后端/Java基础/day36-基础加强（日志，类加载器，单元测试，xml，注解，羊了个羊）/05-注解/学习笔记/注解.md",
     "后端/Java基础/day36-基础加强（日志，类加载器，单元测试，xml，注解，羊了个羊）/04-单元测试/学习笔记/单元测试.md",
     "后端/Java基础/day36-基础加强（日志，类加载器，单元测试，xml，注解，羊了个羊）/03-xml/学习笔记/xml.md",
@@ -183,8 +188,6 @@
     "后端/Java基础/day33-网络编程/笔记/img/02_UDP单播02.png",
     "后端/Java基础/day33-网络编程/笔记/img/01_UDP单播01.png",
     "后端/Java基础/day33-网络编程/笔记/网络编程.md",
-    "后端/Java基础/day32-多线程&juc/笔记/多线程02.md",
-    "后端/Java基础/day31-多线程/笔记/多线程01.md",
     "后端/Java基础/day31-多线程/笔记/img/05_多线程示例图.png",
     "后端/Java基础/day31-多线程/笔记/img/06_阻塞队列继承结构.png",
     "后端/Java基础/day30-Stream流/Stream流.md",
@@ -195,7 +198,6 @@
     "后端/Java基础/day25-阶段项目（综合练习&doudizhu游戏）/笔记/img/1562645709201.png",
     "后端/Java基础/day25-阶段项目（综合练习&doudizhu游戏）/笔记/img/1562645170454.png",
     "后端/Java基础/day25-阶段项目（综合练习&doudizhu游戏）/笔记/img/1562644117681.png",
-    "后端/Java基础/day25-阶段项目（综合练习&doudizhu游戏）/笔记/img/1562642409744.png",
     "后端/Java基础/day25-阶段项目（综合练习&doudizhu游戏）/笔记/可变参数&综合练习.md",
     "后端/Java基础/day24-集合（Map&可变参数&集合工具类）/笔记/集合03.md",
     "后端/Java基础/day23-集合（泛型&Set&数据结构）/day23-笔记/笔记/集合02.md",
@@ -205,7 +207,6 @@
     "后端/Java基础/day19-API（正则表达式）/笔记/正则表达式.md",
     "后端/Java基础/day18-API（常见API，对象克隆）/笔记/API.md",
     "后端/Java基础/day17-面向对象综合练习（下）/笔记/day17-面向对象综合练习（下）.md",
-    "后端/Java基础/day16-面向对象综合练习（上）/笔记/day16-面向对象综合练习（上）.md",
     "PDF/计算机基础",
     "PDF",
     "assets",
